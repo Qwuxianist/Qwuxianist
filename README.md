@@ -1,6 +1,6 @@
 # Hi, I'm Qwuxianist 👋
 
-### IS Undergraduate Student 
+### NJU Undergraduate Student 
 
 I'm an undergraduate student majoring in **Intelligent Science and Technology**.
 
