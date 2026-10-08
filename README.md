@@ -1,17 +1,17 @@
 # Hi, I'm Qwuxianist 👋
 
-### AI Undergraduate Student | C++ & Algorithms
+### IS Undergraduate Student 
 
-I'm an undergraduate student majoring in **Artificial Intelligence**.
+I'm an undergraduate student majoring in **Intelligent Science and Technology**.
 
-Currently focusing on **C++**, **Data Structures & Algorithms**, **Machine Learning**, and **Computer Systems**.
+Currently focusing on **Probability & Statistics**, **Data Structures & Algorithms**, and **Machine Learning**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Undergraduate student majoring in Artificial Intelligence
-- 💻 Currently learning C++ and Data Structures & Algorithms
+- 🎓 Undergraduate student majoring in Intelligent Science and Technology
+- 💻 Currently learning Probobility & Statistics and Data Structures & Algorithms
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 🧠 Building a solid foundation in computer science
 - 🚀 Continuously improving my programming and problem-solving skills
