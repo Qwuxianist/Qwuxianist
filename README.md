@@ -1,4 +1,4 @@
-# Hi, I'm Qwuxianist 👋
+# Hi, I'm Qwuxianist 
 
 ### NJU Undergraduate Student 
 
